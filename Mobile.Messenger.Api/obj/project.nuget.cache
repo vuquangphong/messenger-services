@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MNpRAub0C/8yrSaOc5Cyl6AsI5O0Smg+NFj11YVLtH3MrbnKQsbjHtRO6k7VIPu4WIRK+/l1y6Q5R59+mMjnHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thapq\\REACT-NATIVE-PROJECT\\messenger-app\\back-end\\messenger-services\\Mobile.Messenger.Api\\Mobile.Messenger.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thapq\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
