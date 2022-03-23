@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "G40UbP1/rSDOv5L6xJotW5mmrcWHSw1vZ6YXlKHfgaz58yNchflBl7Rw5+CKN7zsHkDB5sh1EdD5QZfk05a2Yw==",
+  "dgSpecHash": "DUPAtdF28lTob3XVVyGza4eW4jczrFZP4XlStcK4SsyJ3wb4ZqRzdi2gyOxtKhjOlwfN/GbQb7Hs/s52eWPhvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\thapq\\REACT-NATIVE-PROJECT\\messenger-app\\back-end\\messenger-services\\Mobile.Messenger.Infrastructure\\Mobile.Messenger.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thapq\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\thapq\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512"
+  ],
   "logs": []
 }

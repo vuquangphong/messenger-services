@@ -1,0 +1,15 @@
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\Mobile.Messenger.Infrastructure.deps.json
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\Mobile.Messenger.Infrastructure.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\ref\Mobile.Messenger.Infrastructure.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\Mobile.Messenger.Infrastructure.pdb
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\Mobile.Messenger.Core.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\bin\Debug\net6.0\Mobile.Messenger.Core.pdb
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.AssemblyInfo.cs
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.csproj.CopyComplete
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\ref\Mobile.Messenger.Infrastructure.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Infrastructure\obj\Debug\net6.0\Mobile.Messenger.Infrastructure.pdb

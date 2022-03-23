@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a5ecd73-86f1-479e-90fc-354cff236c56": {
+      "ProjectGuid": "6a5ecd73-86f1-479e-90fc-354cff236c56",
+      "DisplayName": "messenger-services",
+      "ColorIndex": 0
+    },
+    "cb9e25ac-3601-47cf-8d07-c991a0e015a7": {
+      "ProjectGuid": "cb9e25ac-3601-47cf-8d07-c991a0e015a7",
+      "DisplayName": "Mobile.Messenger.Core",
+      "ColorIndex": 1
+    },
+    "3e1025e9-a551-44f5-8fa3-c3dc697e2ca7": {
+      "ProjectGuid": "3e1025e9-a551-44f5-8fa3-c3dc697e2ca7",
+      "DisplayName": "Mobile.Messenger.Api",
+      "ColorIndex": 2
+    },
+    "cc6f4cf3-7559-4676-a9f9-334a3f7e90bb": {
+      "ProjectGuid": "cc6f4cf3-7559-4676-a9f9-334a3f7e90bb",
+      "DisplayName": "Mobile.Messenger.Infrastructure",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

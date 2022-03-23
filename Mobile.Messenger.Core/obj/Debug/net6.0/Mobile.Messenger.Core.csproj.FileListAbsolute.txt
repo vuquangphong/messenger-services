@@ -1,0 +1,14 @@
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\bin\Debug\net6.0\Mobile.Messenger.Core.deps.json
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\bin\Debug\net6.0\Mobile.Messenger.Core.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\bin\Debug\net6.0\ref\Mobile.Messenger.Core.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\bin\Debug\net6.0\Mobile.Messenger.Core.pdb
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.csproj.AssemblyReference.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.Resources.VietnameseResource.resources
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.csproj.GenerateResource.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.AssemblyInfoInputs.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.AssemblyInfo.cs
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.csproj.CoreCompileInputs.cache
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\ref\Mobile.Messenger.Core.dll
+C:\Users\thapq\REACT-NATIVE-PROJECT\messenger-app\back-end\messenger-services\Mobile.Messenger.Core\obj\Debug\net6.0\Mobile.Messenger.Core.pdb

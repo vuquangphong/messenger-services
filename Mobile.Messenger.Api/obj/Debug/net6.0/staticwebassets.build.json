@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y8ehfauJeDGbav+IqwRyHbOK+/c2P4uw9rVO3eBdxW4=",
+  "Source": "Mobile.Messenger.Api",
+  "BasePath": "_content/Mobile.Messenger.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
